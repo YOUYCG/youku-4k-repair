@@ -1,0 +1,4 @@
+interface:
+  display_name: "优酷普通 4K 修复"
+  short_description: "核验、修复和验证优酷 Windows 普通 4K 画质入口"
+  default_prompt: "使用 $youku-4k-repair 检查 Windows 优酷当前版本的普通 4K 画质菜单。"
